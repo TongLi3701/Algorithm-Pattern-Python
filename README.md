@@ -10,16 +10,6 @@
 >
 > 这个模板主要是介绍了一些通用的刷题模板，以及一些常见问题，如到底要刷多少题，按什么顺序来刷题，如何提高刷题效率等。
 
-## 在线文档
-
-在线文档 Gitbook：[算法模板 🔥](https://greyireland.gitbook.io/algorithm-pattern/)
-
-## 核心内容
-
-### 入门篇 🐶
-
-- [go 语言入门](./introduction/golang.md)
-- [算法快速入门](./introduction/quickstart.md)
 
 ### 数据结构篇 🐰
 
